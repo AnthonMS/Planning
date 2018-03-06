@@ -8,3 +8,5 @@ I made mine in Wordpress and I made a Plugin that was able to use a Custom Post 
 These posts are then shown in the one of the Pages, where the newest will be highest.
 
 The site was about the game we are making in Game Dev. and the Custom Posts type, was so you could easily post Updates about how it was going and what we still needed.
+
+The site is nón Google Cloud, but I have not got a domain to it yet. But here is the IP. -> http://35.230.134.132/
